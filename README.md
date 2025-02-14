@@ -15,3 +15,5 @@
 [2025.02.12](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-12.md) ECR + Github Actions + Docker
 
 [2025.02.13](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-13.md) 개발자 포트폴리오 작성법 요약
+
+[2025.02.14](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-14.md) 데이터베이스 관련 용어 정리
