@@ -19,3 +19,5 @@
 [2025.02.14](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-14.md) 데이터베이스 관련 용어 정리
 
 [2025.02.17](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-17.md) 타입스크립트 입문
+
+[2025.02.18](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-18.md) 기획 회의
