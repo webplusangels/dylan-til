@@ -21,3 +21,5 @@
 [2025.02.17](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-17.md) 타입스크립트 입문
 
 [2025.02.18](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-18.md) 기획 회의
+
+[2025.02.19](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-18.md) 기획:페르소나 정의
