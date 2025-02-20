@@ -22,4 +22,6 @@
 
 [2025.02.18](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-18.md) 기획 회의
 
-[2025.02.19](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-18.md) 기획:페르소나 정의
+[2025.02.19](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-19.md) 기획: 페르소나 정의
+
+[2025.02.20](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-20.md) 타입스크립트의 유니언 타입
