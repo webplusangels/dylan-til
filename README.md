@@ -29,3 +29,5 @@
 [2025.02.21](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-21.md) 타입스크립트의 구조적 타이핑
 
 [2025.02.24](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-24.md) 보조기억장치와 입출력장치
+
+[2025.02.25](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-25.md) 어제 회고
