@@ -31,3 +31,5 @@
 [2025.02.24](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-24.md) 보조기억장치와 입출력장치
 
 [2025.02.25](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-25.md) 어제 회고
+
+[2025.02.26](https://github.com/webplusangels/dylan-til/blob/main/Feb/2025-02-26.md) 기획 이어서
