@@ -41,3 +41,5 @@
 [2025.03.12](https://github.com/webplusangels/dylan-til/blob/main/Mar/2025-03-12.md) 웹 스크래핑
 
 [2025.03.17](https://github.com/webplusangels/dylan-til/blob/main/Mar/2025-03-17.md) 데이터 수집
+
+[2025.03.18](https://github.com/webplusangels/dylan-til/blob/main/Mar/2025-03-18.md) 면접 스터디
