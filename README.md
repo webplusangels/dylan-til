@@ -43,3 +43,5 @@
 [2025.03.17](https://github.com/webplusangels/dylan-til/blob/main/Mar/2025-03-17.md) 데이터 수집
 
 [2025.03.18](https://github.com/webplusangels/dylan-til/blob/main/Mar/2025-03-18.md) 면접 스터디
+
+[2025.03.26](https://github.com/webplusangels/dylan-til/blob/main/Mar/2025-03-26.md) 데이터 파이프라인 #1
